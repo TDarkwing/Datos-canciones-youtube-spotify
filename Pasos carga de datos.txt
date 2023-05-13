@@ -1,0 +1,7 @@
+1. Seleccione la tabla y elija el archivo CSV que tenga el mismo nombre que la tabla a la cual desea insertar los datos.
+
+2. En el apartado "Encoding", ponga "LATIN9".
+
+3. En la pestaña de opciones, active "HEADER" y asegúrese de que los espacios "Quote" y "Escape" estén en blanco.
+
+4. Inicie la carga de datos.
