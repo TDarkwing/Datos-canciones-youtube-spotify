@@ -1,0 +1,9 @@
+copy album from 'C:\Users\Public\Album.csv' delimiter ';' csv Header;
+copy artista from 'C:\Users\Public\Artista.csv' delimiter ';' csv Header;
+copy cancion from 'C:\Users\Public\Cancion.csv' delimiter ';' csv Header;
+copy canal_youtube from 'C:\Users\Public\Canal_youtube.csv' delimiter ';' csv Header;
+copy datos_spotify from 'C:\Users\Public\Datos_spotify.csv' delimiter ';' csv Header;
+copy datos_youtube from 'C:\Users\Public\Datos_youtube.csv' delimiter ';' csv Header;
+copy estar_en_album from 'C:\Users\Public\Estar_en_album.csv' delimiter ';' csv Header;
+copy publicar_cancion from 'C:\Users\Public\Publicar_cancion.csv' delimiter ';' csv Header;
+copy pagina_spotify from 'C:\Users\Public\Pagina_spotify.csv' delimiter ';' csv Header;
