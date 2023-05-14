@@ -1,0 +1,2080 @@
+﻿ID;Nombre
+1;Gorillaz
+2;Red Hot Chili Peppers
+3;50 Cent
+4;Metallica
+5;Coldplay
+6;Daft Punk
+7;Linkin Park
+8;Radiohead
+9;AC/DC
+10;Black Eyed Peas
+11;Michael Jackson
+12;P!nk
+13;Eminem
+14;Pharrell Williams
+15;Khalid
+16;Shakira
+17;Machine Gun Kelly
+18;Nicky Jam
+19;The Beatles
+20;Pitbull
+21;Sean Paul
+22;Elvis Presley
+23;2Pac
+24;Snoop Dogg
+25;Lil Wayne
+26;Sia
+27;Fleetwood Mac
+28;ABBA
+29;Frank Sinatra
+30;Ti��st
+31;Elton John
+32;JAY-Z
+33;21 Savage
+34;Kanye West
+35;Luis Miguel
+36;Beyonc�
+37;Daddy Yankee
+38;Don Toliver
+39;Camilo
+40;Britney Spears
+41;Farruko
+42;Wisin & Yandel
+43;Disney
+44;Chris Brown
+45;Tory Lanez
+46;Mariah Carey
+47;A.R. Rahman
+48;Die drei ???
+49;Pritam
+50;Shreya Ghoshal
+51;Pink Floyd
+52;System Of A Down
+53;Green Day
+54;Ludovico Einaudi
+55;Muse
+56;Aerosmith
+57;Slipknot
+58;Oasis
+59;The Rolling Stones
+60;Hans Zimmer
+61;Deftones
+62;blink-182
+63;Bob Marley & The Wailers
+64;David Bowie
+65;Bon Jovi
+66;Dr. Dre
+67;Creedence Clearwater Revival
+68;U2
+69;Nate Dogg
+70;Juanes
+71;Man�
+72;Bee Gees
+73;Billy Joel
+74;The Notorious B.I.G.
+75;Enrique Iglesias
+76;Timbaland
+77;Alejandro Sanz
+78;Whitney Houston
+79;Madonna
+80;Alicia Keys
+81;John Mayer
+82;Christina Aguilera
+83;Marc Anthony
+84;Ricardo Arjona
+85;Stevie Wonder
+86;Ludacris
+87;Plan B
+88;Aventura
+89;Usher
+90;Vicente Fern��nde
+91;Alejandro Fern��nde
+92;T-Pain
+93;Johann Sebastian Bach
+94;Jhen�� Aik
+95;Alka Yagnik
+96;Udit Narayan
+97;Vishal-Shekhar
+98;Bibi und Tina
+99;Yuvan Shankar Raja
+100;Bibi Blocksberg
+101;Pearl Jam
+102;The Offspring
+103;Johnny Cash
+104;Eagles
+105;Korn
+106;MGMT
+107;MF DOOM
+108;The Cure
+109;Jack Johnson
+110;Outkast
+111;Ice Cube
+112;Phil Collins
+113;John Williams
+114;Soda Stereo
+115;Nas
+116;Luis Fonsi
+117;Backstreet Boys
+118;Los ��ngeles Azule
+119;Zedd
+120;Nat King Cole
+121;Armin van Buuren
+122;Juicy J
+123;Julieta Venegas
+124;Bruce Springsteen
+125;Wham!
+126;Jos�� Jos
+127;Los Tigres Del Norte
+128;Bryan Adams
+129;Dean Martin
+130;Nelly Furtado
+131;Ricky Martin
+132;Jennifer Lopez
+133;Sido
+134;Wolfgang Amadeus Mozart
+135;Juan Gabriel
+136;Nelly
+137;Fr��d��ric Chop
+138;Marco Antonio Sol��
+139;C��line Dio
+140;Alesso
+141;Joan Sebastian
+142;Bing Crosby
+143;S. P. Balasubrahmanyam
+144;Sonu Nigam
+145;Lata Mangeshkar
+146;La Arrolladora Banda El Lim��n De Rene Camach
+147;KK
+148;Anah�
+149;Shankar Mahadevan
+150;Kumar Sanu
+151;Iron Maiden
+152;Black Sabbath
+153;thasup
+154;Limp Bizkit
+155;John Lennon
+156;Disturbed
+157;The Doors
+158;R.E.M.
+159;Scorpions
+160;Norah Jones
+161;The Smashing Pumpkins
+162;Skillet
+163;Earth, Wind & Fire
+164;Weezer
+165;Sabaton
+166;Train
+167;Rod Stewart
+168;Tears For Fears
+169;TOTO
+170;Shaggy
+171;Charlie Brown Jr.
+172;La Oreja de Van Gogh
+173;London Symphony Orchestra
+174;Marvin Gaye
+175;George Michael
+176;Gwen Stefani
+177;The Game
+178;The Beach Boys
+179;Journey
+180;Dolly Parton
+181;Gabry Ponte
+182;SCH
+183;Ludwig van Beethoven
+184;Jay Chou
+185;Diddy
+186;Baby Rasta
+187;Shania Twain
+188;Hillsong Worship
+189;George Strait
+190;Berliner Philharmoniker
+191;Rahat Fateh Ali Khan
+192;Kishore Kumar
+193;Shekhar Ravjiani
+194;Los Tucanes De Tijuana
+195;Intocable
+196;Los Temerarios
+197;K. S. Chithra
+198;TKKG
+199;Sunidhi Chauhan
+200;Benjamin Bl��mche
+201;Rage Against The Machine
+202;The White Stripes
+203;Lynyrd Skynyrd
+204;Dido
+205;Eric Clapton
+206;Bob Dylan
+207;Bill Withers
+208;Louis Armstrong
+209;Enya
+210;Papa Roach
+211;Ozzy Osbourne
+212;a-ha
+213;M��tley Cr�
+214;Alice In Chains
+215;Ella Fitzgerald
+216;Sade
+217;Wyclef Jean
+218;Antonio Vivaldi
+219;Simon & Garfunkel
+220;Robbie Williams
+221;Patrick Watson
+222;Busta Rhymes
+223;Paul McCartney
+224;Los Enanitos Verdes
+225;Hombres G
+226;Sufjan Stevens
+227;Prince
+228;Boney M.
+229;Willie Nelson
+230;Van Morrison
+231;Ms. Lauryn Hill
+232;Lil Jon
+233;Chayanne
+234;Alan Jackson
+235;Destiny's Child
+236;Bronco
+237;Ana Gabriel
+238;Brenda Lee
+239;Ashanti
+240;Andy Williams
+241;Jes��s Adri��n Rome
+242;Bruno & Marrone
+243;Method Man
+244;Sezen Aksu
+245;G. V. Prakash
+246;Banda El Recodo
+247;Devi Sri Prasad
+248;Hariharan
+249;Karthik
+250;Harris Jayaraj
+251;3 Doors Down
+252;The Black Keys
+253;Marilyn Manson
+254;Santana
+255;Electric Light Orchestra
+256;Jimi Hendrix
+257;Sum 41
+258;Coolio
+259;Megadeth
+260;The Clash
+261;Otis Redding
+262;Sting
+263;Dimitri Vegas & Like Mike
+264;Gustavo Cerati
+265;DMX
+266;Tech N9ne
+267;The Jackson 5
+268;Aretha Franklin
+269;Cyndi Lauper
+270;Andr��s Calamar
+271;Mary J. Blige
+272;Andrea Bocelli
+273;Lionel Richie
+274;Jos�� Felician
+275;Duster
+276;Sin Bandera
+277;Pyotr Ilyich Tchaikovsky
+278;Hillsong UNITED
+279;Laura Pausini
+280;Westlife
+281;Kylie Minogue
+282;Missy Elliott
+283;Cristian Castro
+284;Claude Debussy
+285;Roberto Carlos
+286;Hikaru Utada
+287;Tim McGraw
+288;The Alchemist
+289;Kenny Chesney
+290;Pepe Aguilar
+291;Thalia
+292;Roc��o D��rc
+293;Selena
+294;R. D. Burman
+295;Guru Randhawa
+296;Conjunto Primavera
+297;Jenni Rivera
+298;Javed Ali
+299;Amaal Mallik
+300;Chinmayi
+301;Years & Years
+302;Lenny Kravitz
+303;Moby
+304;Queens of the Stone Age
+305;Blur
+306;Yusuf / Cat Stevens
+307;Gustavo Santaolalla
+308;Pantera
+309;Tracy Chapman
+310;Kidz Bop Kids
+311;Blondie
+312;Bunbury
+313;John Denver
+314;E-40
+315;Julio Iglesias
+316;Willie Col��
+317;Babas��nico
+318;Caifanes
+319;Grupo Niche
+320;Kenny Rogers
+321;Miguel Bos�
+322;Eros Ramazzotti
+323;�ejo
+324;Franco De Vita
+325;Olivia Newton-John
+326;Carpenters
+327;Leo Dan
+328;Project Pat
+329;Royal Philharmonic Orchestra
+330;Fergie
+331;Ja Rule
+332;P��ricle
+333;Gilberto Santa Rosa
+334;Jamie Foxx
+335;Ricardo Montaner
+336;Ciara
+337;Raekwon
+338;L.V.
+339;Rascal Flatts
+340;Valent��n Elizald
+341;Asha Bhosle
+342;Antonio Aguilar
+343;Los Cadetes De Linares
+344;Madlib
+345;Chalino Sanchez
+346;Grupo Bryndis
+347;Los Invasores De Nuevo Le��
+348;S. Janaki
+349;K. J. Yesudas
+350;Shankar-Ehsaan-Loy
+351;The Mamas & The Papas
+352;Genesis
+353;Cypress Hill
+354;Wu-Tang Clan
+355;The Who
+356;Caf�� Tacvb
+357;Incubus
+358;Gigi D'Agostino
+359;Eurythmics
+360;M��go de O
+361;Snow Patrol
+362;Chuck Berry
+363;Nina Simone
+364;Bob Sinclar
+365;Joe Hisaishi
+366;Counting Crows
+367;Sam Cooke
+368;UB40
+369;Duran Duran
+370;Etta James
+371;Tom Petty
+372;Los Aut��nticos Decadente
+373;The Doobie Brothers
+374;Yo-Yo Ma
+375;Air Supply
+376;Paul Simon
+377;Tina Turner
+378;Bootsy Collins
+379;Spice Girls
+380;Neil Diamond
+381;*NSYNC
+382;Joaqu��n Sabin
+383;INNA
+384;Kenny Loggins
+385;James Taylor
+386;Cher
+387;TLC
+388;Grupo Revela���
+389;Wiener Philharmoniker
+390;Toby Keith
+391;Herbert von Karajan
+392;Emmanuel
+393;Perry Como
+394;Mohammed Rafi
+395;Ol' Dirty Bastard
+396;Sukhwinder Singh
+397;Burl Ives
+398;F��nf Freund
+399;Shaan
+400;Sadhana Sargam
+401;Ray Charles
+402;Deep Purple
+403;Judas Priest
+404;No Doubt
+405;Jarabe De Palo
+406;Kool & The Gang
+407;Erik Satie
+408;Mobb Deep
+409;Creed
+410;Los Fabulosos Cadillacs
+411;TheFatRat
+412;A Tribe Called Quest
+413;Hardwell
+414;Erykah Badu
+415;Don Diablo
+416;Pet Shop Boys
+417;Modern Talking
+418;Godsmack
+419;George Harrison
+420;Caetano Veloso
+421;Skank
+422;Waylon Jennings
+423;Tony Bennett
+424;Steely Dan
+425;Fat Joe
+426;Aaliyah
+427;Riton
+428;Eason Chan
+429;Keyshia Cole
+430;Johannes Brahms
+431;Academy of St. Martin in the Fields
+432;Paulina Rubio
+433;Ghostface Killah
+434;Tom Petty and the Heartbreakers
+435;Yo Gotti
+436;Pradeep Kumar
+437;Eve
+438;Marisela
+439;Alejandra Guzman
+440;Zez�� Di Camargo & Lucian
+441;Mijares
+442;Silambarasan TR
+443;Sujatha
+444;R. Kelly
+445;Los Inquietos Del Norte
+446;Anuradha Paudwal
+447;Abhijeet
+448;Sheila On 7
+449;Kavita Krishnamurthy
+450;Jatin-Lalit
+451;Jamiroquai
+452;El Cuarteto De Nos
+453;Placebo
+454;Tom Morello
+455;Nine Inch Nails
+456;Patricio Rey y sus Redonditos de Ricota
+457;Will Smith
+458;PXNDX
+459;Heroes Del Silencio
+460;Bonnie Tyler
+461;Sir Simon Rattle
+462;Boyz II Men
+463;Ant��nio Carlos Jobi
+464;Boston
+465;Kid Rock
+466;The All-American Rejects
+467;Dybbukk
+468;Kansas
+469;Mecano
+470;The Temptations
+471;Heart
+472;Prezioso
+473;Sheryl Crow
+474;Bone Thugs-N-Harmony
+475;Matchbox Twenty
+476;kevoxx
+477;Eddie Santiago
+478;Diana Ross
+479;Xzibit
+480;Howard Shore
+481;Fabolous
+482;Arizona Zervas
+483;Tarkan
+484;Darius Rucker
+485;M��sl��m G��r
+486;Frankie Ruiz
+487;Ivete Sangalo
+488;The Wiggles
+489;The Chicks
+490;Yuri
+491;Mika Singh
+492;Binomio de Oro de Am��ric
+493;Dwele
+494;Himesh Reshammiya
+495;Chris Tomlin
+496;Pancho Barraza
+497;George Frideric Handel
+498;Pesado
+499;Traditional
+500;Grupo Laberinto
+501;Ennio Morricone
+502;Seu Jorge
+503;Leonard Cohen
+504;Fugees
+505;Good Charlotte
+506;Mot��rhea
+507;Nightwish
+508;Jorge Drexler
+509;Grateful Dead
+510;Eazy-E
+511;Roy Orbison
+512;Stevie Nicks
+513;The Cramps
+514;Daniel Hope
+515;Crowded House
+516;Sir Neville Marriner
+517;Sir Arthur Conan Doyle
+518;In Flames
+519;Scooter
+520;Gloria Estefan
+521;Richard Marx
+522;Djavan
+523;DJ Premier
+524;Chris Rea
+525;D12
+526;Los Palmeras
+527;Ginuwine
+528;Ra��a Negr
+529;Jos�� Luis Perale
+530;Janet Jackson
+531;Twista
+532;Alonzo
+533;Teoman
+534;Jerry Rivera
+535;Too $hort
+536;La Sonora Dinamita
+537;Robert Schumann
+538;James Horner
+539;Chit��ozinho & Xoror
+540;Playero
+541;Jos�� Alfredo Jimene
+542;Camille Saint-Sa��n
+543;Tammi Terrell
+544;Ati242
+545;Los Angeles De Charly
+546;Los Dareyes De La Sierra
+547;Los Acosta
+548;Inspectah Deck
+549;Naresh Iyer
+550;Roop Kumar Rathod
+551;Gipsy Kings
+552;John Coltrane
+553;Iggy Pop
+554;Barry White
+555;Phoenix
+556;Thousand Foot Krutch
+557;Beck
+558;Jim Croce
+559;Bonobo
+560;Billie Holiday
+561;Smash Mouth
+562;Al Green
+563;Joe Cocker
+564;The Outfield
+565;La Mosca Tse-Tse
+566;Men At Work
+567;Kenny Dope
+568;mor ve ��tes
+569;Celia Cruz
+570;Charly Garc��
+571;Craig David
+572;Fito Paez
+573;John Mellencamp
+574;Elvis Crespo
+575;Lil' Kim
+576;TobyMac
+577;Zeca Pagodinho
+578;Jadakiss
+579;London Philharmonic Orchestra
+580;RZA
+581;Brad Paisley
+582;Hank Williams, Jr.
+583;J��hann J��hannss
+584;112
+585;Nusrat Fateh Ali Khan
+586;Brandy
+587;Leo Mattioli
+588;Marisa Monte
+589;Udo Lindenberg
+590;Mandy Moore
+591;Santiago Ziesmer
+592;Belo
+593;Outlawz
+594;Dewa 19
+595;Mase
+596;Banda Cuisillos
+597;Leon James
+598;Los Yonic's
+599;Banda Peque��os Musica
+600;Ilaiyaraaja
+601;Joy Division
+602;J.J. Cale
+603;Gojira
+604;Commodores
+605;Chet Baker
+606;Mos Def
+607;Modest Mouse
+608;Lamb of God
+609;Death Cab for Cutie
+610;Billy Ray Cyrus
+611;Los Panchos
+612;CeeLo Green
+613;Dusty Springfield
+614;Pretenders
+615;Elliott Smith
+616;Peter Gabriel
+617;Insane Clown Posse
+618;REO Speedwagon
+619;Europe
+620;Whitesnake
+621;Gilberto Gil
+622;Vasco Rossi
+623;H��ctor Lavo
+624;Kingpin Skinny Pimp
+625;Silvio Rodr��gue
+626;Andr��s Ceped
+627;Franz Schubert
+628;La Ley
+629;Barbra Streisand
+630;Donna Summer
+631;Edvard Grieg
+632;Diego Torres
+633;Z�� Ramalh
+634;Luciano Pereyra
+635;Faith Evans
+636;Lulu Santos
+637;Shakin' Stevens
+638;Jota Quest
+639;V��ctor Manuell
+640;Javier Sol��
+641;Vedo
+642;Exaltasamba
+643;Faith Hill
+644;Mr.Children
+645;Redman
+646;Los Rehenes
+647;LX
+648;Joe
+649;Ebru G��nde
+650;Vijay Yesudas
+651;The Velvet Underground
+652;The Cinematic Orchestra
+653;Cultura Prof��tic
+654;Staind
+655;Grover Washington, Jr.
+656;Stan Getz
+657;Dave Matthews Band
+658;Alphaville
+659;Lifehouse
+660;BUMP OF CHICKEN
+661;Martin Solveig
+662;El Canto Del Loco
+663;Alice Cooper
+664;Meat Loaf
+665;Savage Garden
+666;ATB
+667;Alexandre Desplat
+668;Kris Kristofferson
+669;Gavin Greenaway
+670;Lisa Gerrard
+671;Danny Elfman
+672;Los Pericos
+673;George Benson
+674;Kenny G
+675;Carly Simon
+676;B��hse Onkel
+677;Stephen Cleobury
+678;DENNIS
+679;Antonio Orozco
+680;Three 6 Mafia
+681;Sergei Rachmaninoff
+682;Engenheiros Do Hawaii
+683;Luther Vandross
+684;Cocteau Twins
+685;Laxmikant���Pyarel
+686;Mark Morrison
+687;Randy Travis
+688;Daniel Barenboim
+689;Travis Tritt
+690;Lilly Goodman
+691;Marcos Witt
+692;Niro
+693;Mi Banda El Mexicano
+694;ARASHI
+695;Banda Machos
+696;Salim���Sulaim
+697;Harish Raghavendra
+698;Glenn Fredly
+699;Sertab Erener
+700;Ramon Ayala Y Sus Bravos Del Norte
+701;Ace of Base
+702;Tom Jones
+703;Michael Bolton
+704;James Brown
+705;Jo��o Gilbert
+706;Soft Cell
+707;KC & The Sunshine Band
+708;Jorge Ben Jor
+709;Blue ��yster Cul
+710;Bj��r
+711;Don McLean
+712;Gloria Gaynor
+713;Blackstreet
+714;Claudio Abbado
+715;Charles Aznavour
+716;Os Paralamas Do Sucesso
+717;Vilma Palma e Vampiros
+718;M��ni
+719;Thomas Newman
+720;Luciano Pavarotti
+721;Alceu Valen��
+722;Third Eye Blind
+723;John Powell
+724;Armand Van Helden
+725;Rafaga
+726;Don Henley
+727;D.O.D
+728;Toni Braxton
+729;Warren G
+730;Capital Inicial
+731;Kalash
+732;Marta S��nche
+733;La Sonora Santanera
+734;Grupo 5
+735;Kendo Kaponi
+736;Shenseea
+737;Diomedes Diaz
+738;Bombay Jayashri
+739;Gene Autry
+740;Divya Kumar
+741;Dino James
+742;Grupo Yndio
+743;Rionegro & Solim��e
+744;Mano
+745;Leonardo
+746;Saindhavi
+747;Swarnalatha
+748;Roger
+749;Ananya Bhat
+750;Serdar Orta�
+751;Janis Joplin
+752;Fatboy Slim
+753;Cream
+754;Dropkick Murphys
+755;Stevie Ray Vaughan
+756;Eiffel 65
+757;Take That
+758;Mindless Self Indulgence
+759;Thin Lizzy
+760;Jovanotti
+761;Four Tops
+762;Julio Jaramillo
+763;Los Cafres
+764;Rub��n Blade
+765;Vengaboys
+766;Killswitch Engage
+767;Christopher Cross
+768;James Newton Howard
+769;Die ��rzt
+770;Poison
+771;Franz Liszt
+772;Soprano
+773;Sarah McLachlan
+774;Allman Brothers Band
+775;El Barrio
+776;Natalie Cole
+777;Ronan Keating
+778;Jackson Browne
+779;Kelis
+780;Fiona Apple
+781;C��ssia Elle
+782;Philharmonia Orchestra
+783;Kirk Franklin
+784;Hector & Tito
+785;The Lyndhurst Orchestra
+786;The Pointer Sisters
+787;Gala
+788;Ying Yang Twins
+789;Mayday
+790;The Supremes
+791;Kool Savas
+792;Vince Gill
+793;GZA
+794;Pezet
+795;Mahalakshmi Iyer
+796;M. M. Keeravani
+797;Harini
+798;Aline Barros
+799;Rolf Zuckowski
+800;South Park Mexican
+801;Rammstein
+802;Queen
+803;Justin Timberlake
+804;Fall Out Boy
+805;David Guetta
+806;Akon
+807;Don Omar
+808;Miguel
+809;TWICE
+810;Logic
+811;Nickelback
+812;RM
+813;Kelly Clarkson
+814;Badshah
+815;Depeche Mode
+816;The Strokes
+817;T.I.
+818;The Police
+819;Juan Luis Guerra 4.40
+820;BONES
+821;Carlos Vives
+822;Christopher von Uckermann
+823;Los Bukis
+824;KISS
+825;Avenged Sevenfold
+826;will.i.am
+827;Zo�
+828;Daryl Hall & John Oates
+829;Kate Bush
+830;Pusha T
+831;Blake Shelton
+832;DJ Nelson
+833;The Cranberries
+834;Pixies
+835;Almighty
+836;Jelly Roll
+837;Germ
+838;Manu Chao
+839;M83
+840;Rise Against
+841;INXS
+842;Travis Barker
+843;Nile Rodgers
+844;Roxette
+845;Annie Lennox
+846;Oliver Heldens
+847;Tego Calder��
+848;David Bisbal
+849;Booba
+850;Gloria Trevi
+851;Keith Urban
+852;Xavier Wulf
+853;Dhanush
+854;ZZ Top
+855;TOOL
+856;Billy Idol
+857;Natiruts
+858;Estopa
+859;Belinda
+860;Brooks & Dunn
+861;Cardenales De Nuevo Le��
+862;Bobby Helms
+863;Beastie Boys
+864;Chicago
+865;Legi��o Urban
+866;Abel Pintos
+867;Tchakabum
+868;LP
+869;LMFAO
+870;America
+871;The National
+872;I Virtuosi Italiani
+873;Slayer
+874;Kaskade
+875;Jimmy Eat World
+876;Manuel Carrasco
+877;Banda Los Recoditos
+878;Ramones
+879;Rob Zombie
+880;Benny Benassi
+881;Stone Temple Pilots
+882;New Order
+883;Simple Minds
+884;Damas Gratis
+885;Elefante
+886;Bacilos
+887;Camilo Sesto
+888;Youjeen
+889;Bread
+890;Mario
+891;Kelly Rowland
+892;Eraserheads
+893;Vijay Prakash
+894;Damian Marley
+895;Hoobastank
+896;PSY
+897;SEGA SOUND TEAM
+898;Jimmy Buffett
+899;Vanesa Mart��
+900;Jeet Gannguli
+901;Molotov
+902;O Rappa
+903;Fito y Fitipaldis
+904;The Kinks
+905;Aphex Twin
+906;Yiruma
+907;Tiziano Ferro
+908;Nando Reis
+909;Fernandinho
+910;Ana B��rbar
+911;Yoko Ono
+912;Diego Verdaguer
+913;Darlene Love
+914;Ben E. King
+915;Rick Astley
+916;Diana Krall
+917;Los Prisioneros
+918;Majestic
+919;Raffi
+920;Miel San Marcos
+921;Ajay-Atul
+922;Ahmet Kaya
+923;Los Amables Del Norte
+924;The Kiboomers
+925;Liberaci��
+926;Massive Attack
+927;Yann Tiersen
+928;Wings
+929;Lang Lang
+930;Joan Jett & the Blackhearts
+931;Alex Ubago
+932;Ivy Queen
+933;La Factoria
+934;Aleks Syntek
+935;Cedric Gervais
+936;Olivia
+937;Ocean Sounds
+938;Ocean Waves For Sleep
+939;Akhil
+940;Misfits
+941;Seal
+942;Huey Lewis & The News
+943;I Monster
+944;Sub Focus
+945;Jeff Beck
+946;Chevelle
+947;Vybz Kartel
+948;Steve Edwards
+949;Timbiriche
+950;Alabama
+951;Milion��rio & Jos�� Ri
+952;Stereophonics
+953;Nick Cave & The Bad Seeds
+954;Los Bunkers
+955;surrenderdorothy
+956;Cassie
+957;Yovie & Nuno
+958;Nirvana
+959;Maroon 5
+960;Romeo Santos
+961;Michael Bubl�
+962;Yandel
+963;Gusttavo Lima
+964;Grupo Marca Registrada
+965;Foo Fighters
+966;My Chemical Romance
+967;Cartel De Santa
+968;Rick Ross
+969;Zion & Lennox
+970;DJ Khaled
+971;Megan Thee Stallion
+972;Yuridia
+973;Luciano
+974;Avril Lavigne
+975;PNAU
+976;Wisin
+977;2 Chainz
+978;Natalia Lafourcade
+979;B.o.B
+980;Max Richter
+981;Jason Mraz
+982;Afrojack
+983;Danna Paola
+984;Mohit Chauhan
+985;Diljit Dosanjh
+986;Van Halen
+987;Sorriso Maroto
+988;Tulsi Kumar
+989;The Goo Goo Dolls
+990;Breaking Benjamin
+991;Dina Rae
+992;Duelo
+993;Sublime
+994;Miranda!
+995;Def Leppard
+996;Haricharan
+997;Audioslave
+998;Seether
+999;Simple Plan
+1000;Dave Stewart
+1001;"Tito ""El Bambino"""
+1002;Gibbs
+1003;No Te Va Gustar
+1004;Alanis Morissette
+1005;Adolescent's Orquesta
+1006;Duman
+1007;Racionais MC's
+1008;Thirty Seconds To Mars
+1009;Nko
+1010;Summer Cem
+1011;Rekha Bhardwaj
+1012;Ice Nine Kills
+1013;John Travolta
+1014;Pixote
+1015;Los Caminantes
+1016;Meet Bros.
+1017;Yeah Yeah Yeahs
+1018;N.W.A.
+1019;The Cars
+1020;Rush
+1021;Jeremy Soule
+1022;Silvestre Dangond
+1023;Grey
+1024;Los Huracanes del Norte
+1025;Panteon Rococo
+1026;La Quinta Estacion
+1027;Nick Jonas
+1028;Curren$y
+1029;Little Big Town
+1030;Parokya Ni Edgar
+1031;The Prodigy
+1032;Fabri Fibra
+1033;Chris Isaak
+1034;Interpol
+1035;Angel Y Khriz
+1036;Inspector
+1037;Alexis y Fido
+1038;MK
+1039;Boosie Badazz
+1040;Meryl Streep
+1041;"H��ctor""El Father"""
+1042;Stone Sour
+1043;Carlos Baute
+1044;Chris Lake
+1045;Descemer Bueno
+1046;Ruger
+1047;Shafqat Amanat Ali
+1048;Simone & Simaria
+1049;Harshdeep Kaur
+1050;Redimi2
+1051;t.A.T.u.
+1052;Plain White T's
+1053;First Aid Kit
+1054;Robin Thicke
+1055;Theory of a Deadman
+1056;Los Caligaris
+1057;Juelz Santana
+1058;Bushido
+1059;Ra�� Saia Rodad
+1060;"Sergio Vega ""El Shaka"""
+1061;Gunna
+1062;Arijit Singh
+1063;Led Zeppelin
+1064;John Legend
+1065;The Killers
+1066;Diplo
+1067;Reik
+1068;Amy Winehouse
+1069;Dire Straits
+1070;Three Days Grace
+1071;Mark Ronson
+1072;Alfonso Herrera
+1073;La K'onga
+1074;YG
+1075;Dulce Mar��
+1076;Vishal Dadlani
+1077;Christian Ch��ve
+1078;Kings of Leon
+1079;Thundercat
+1080;Pentatonix
+1081;Ha*Ash
+1082;Tony Dize
+1083;Zion
+1084;Keane
+1085;Melendi
+1086;Kany Garc��
+1087;Carrie Underwood
+1088;Evanescence
+1089;Idina Menzel
+1090;Miranda Lambert
+1091;Turma do Pagode
+1092;Shinedown
+1093;Jeezy
+1094;Sleeping At Last
+1095;Talking Heads
+1096;Supertramp
+1097;The Fray
+1098;Soulja Boy
+1099;Dierks Bentley
+1100;Benny Dayal
+1101;Kyla
+1102;Cherish
+1103;Franz Ferdinand
+1104;Gotye
+1105;Christian Rode
+1106;Sagopa Kajmer
+1107;Vince Guaraldi Trio
+1108;Willy William
+1109;Bob Seger
+1110;Simply Red
+1111;Gregory Alan Isakov
+1112;Freshlyground
+1113;Hugh Jackman
+1114;Eduardo Costa
+1115;Aloe Blacc
+1116;Lupe Fiasco
+1117;Tribo da Periferia
+1118;Jay Sean
+1119;Madvillain
+1120;Arcade Fire
+1121;Michael Giacchino
+1122;JJ Lin
+1123;Belanova
+1124;Kailash Kher
+1125;Randy
+1126;Phil Wickham
+1127;Kavita Seth
+1128;Claptone
+1129;Jos�� Gonz��l
+1130;Billy Talent
+1131;Aaron Smith
+1132;Lamp
+1133;Vicentico
+1134;Billy Currington
+1135;Casting Crowns
+1136;Nightcrawlers
+1137;Josh Turner
+1138;Daughtry
+1139;Tommee Profitt
+1140;Maelo Ruiz
+1141;The Animals
+1142;Benny Sings
+1143;Eric Prydz
+1144;WWE
+1145;Guns N' Roses
+1146;�engo Flow
+1147;Young Thug
+1148;Bring Me The Horizon
+1149;Flo Rida
+1150;Gu�
+1151;Gucci Mane
+1152;Wizkid
+1153;RBD
+1154;Maite Perroni
+1155;RAF Camora
+1156;Sachin-Jigar
+1157;Jowell & Randy
+1158;Shilpa Rao
+1159;Maren Morris
+1160;11:11 Music Group
+1161;creamy
+1162;Trey Songz
+1163;Gemitaiz
+1164;James Blunt
+1165;The Pussycat Dolls
+1166;Gurlez Akhtar
+1167;Calle 13
+1168;Ramin Djawadi
+1169;Lady A
+1170;Davido
+1171;Bullet For My Valentine
+1172;Juan Mag��
+1173;Keri Hilson
+1174;J Alvarez
+1175;Thomas Karallus
+1176;Palak Muchhal
+1177;M.I.A.
+1178;Survivor
+1179;Ratatat
+1180;Sara Bareilles
+1181;Fuego
+1182;Bas
+1183;The Verve
+1184;Mazzy Star
+1185;Cascada
+1186;Lloyd
+1187;Lecrae
+1188;Steve Miller Band
+1189;SDP
+1190;Alex Zurdo
+1191;Marcela Gandara
+1192;Natasha Bedingfield
+1193;Emis Killa
+1194;Starship
+1195;Estelle
+1196;D.O.E.
+1197;Espinoza Paz
+1198;Capo
+1199;Reyli Barba
+1200;Arctic Monkeys
+1201;Rihanna
+1202;Arc��nge
+1203;De La Ghetto
+1204;Jul
+1205;Macklemore
+1206;Panic! At The Disco
+1207;Paramore
+1208;Ne-Yo
+1209;Gesaffelstein
+1210;Atif Aslam
+1211;Steve Aoki
+1212;Jason Aldean
+1213;Adam Levine
+1214;1nonly
+1215;Marracash
+1216;Dread Mar I
+1217;RADWIMPS
+1218;Cosculluela
+1219;Zac Brown Band
+1220;Thiaguinho
+1221;Volbeat
+1222;Camila
+1223;Gente De Zona
+1224;A Day To Remember
+1225;Wale
+1226;Gym Class Heroes
+1227;Foreigner
+1228;Fonseca
+1229;Caralisa Monteiro
+1230;deadmau5
+1231;Lorenzo
+1232;The Ronettes
+1233;The Kooks
+1234;Cem Adrian
+1235;Teufelskicker
+1236;Lindsey Stirling
+1237;Westside Gunn
+1238;Kollegah
+1239;Shweta Mohan
+1240;Janelle Mon��
+1241;Klaas
+1242;Yelawolf
+1243;Far East Movement
+1244;Mc Lipi
+1245;Bootie Brown
+1246;Luvli
+1247;Brandi Carlile
+1248;Vierra
+1249;Ed Sheeran
+1250;Miley Cyrus
+1251;Wiz Khalifa
+1252;Calvin Harris
+1253;Taylor Swift
+1254;Future
+1255;Anirudh Ravichander
+1256;Banda MS de Sergio Liz��rrag
+1257;The Smiths
+1258;French Montana
+1259;Tainy
+1260;Neha Kakkar
+1261;Beach House
+1262;Jonas Brothers
+1263;Luke Bryan
+1264;Amitabh Bhattacharya
+1265;Cage The Elephant
+1266;Jesse & Joy
+1267;Canserbero
+1268;Cuco
+1269;Passenger
+1270;Orelsan
+1271;Jon Z
+1272;Eric Church
+1273;Jay Rock
+1274;All Time Low
+1275;Mithoon
+1276;Taio Cruz
+1277;Cali Y El Dandee
+1278;La Maquinaria Norte��
+1279;Coez
+1280;Lily Allen
+1281;Freddie Gibbs
+1282;Leona Lewis
+1283;El Komander
+1284;Prashant Katheriya
+1285;Paolo Nutini
+1286;W&W
+1287;Chris Young
+1288;C��digo F
+1289;Neeraj Shridhar
+1290;Peter Fox
+1291;India Martinez
+1292;Nipsey Hussle
+1293;MIKA
+1294;The Temper Trap
+1295;Maneva
+1296;Helene Fischer
+1297;DJ Drama
+1298;Angus & Julia Stone
+1299;Bear McCreary
+1300;Brooke Ligertwood
+1301;The Wombats
+1302;BIGBANG
+1303;Konshens
+1304;Ramirez
+1305;J. Cole
+1306;J Balvin
+1307;Katy Perry
+1308;OneRepublic
+1309;Tyga
+1310;Jorge & Mateus
+1311;Jason Derulo
+1312;Big Sean
+1313;Juli��n ��lvarez y su Norte��o Ba
+1314;Chris Stapleton
+1315;Five Finger Death Punch
+1316;Bon Iver
+1317;Meek Mill
+1318;Armaan Malik
+1319;Mother Mother
+1320;benny blanco
+1321;Carlos Rivera
+1322;Gerardo Ortiz
+1323;Pierce The Veil
+1324;Skepta
+1325;TAEYANG
+1326;ONE OK ROCK
+1327;Kacey Musgraves
+1328;Lee Brice
+1329;Crystal Castles
+1330;Owl City
+1331;Motionless In White
+1332;Fabrizio Paterlini
+1333;Sean Kingston
+1334;Lucenzo
+1335;Hamza
+1336;Lykke Li
+1337;Pedro Cap�
+1338;Mike Perry
+1339;Money Man
+1340;Colbie Caillat
+1341;Zac Efron
+1342;Mar��a Jos
+1343;TAEYEON
+1344;Peter Groeger
+1345;Sherlock Holmes
+1346;Soundgarden
+1347;Flowdan
+1348;DJ Alex
+1349;Girls' Generation
+1350;Sam Smith
+1351;Adele
+1352;Tyler, The Creator
+1353;Lady Gaga
+1354;Drake
+1355;Nicki Minaj
+1356;Selena Gomez
+1357;Frank Ocean
+1358;Ariana Grande
+1359;Tame Impala
+1360;Avicii
+1361;Kid Cudi
+1362;Demi Lovato
+1363;Skrillex
+1364;R3HAB
+1365;Bonez MC
+1366;Bomba Est��re
+1367;G-Eazy
+1368;Kesha
+1369;Charli XCX
+1370;Major Lazer
+1371;Florence + The Machine
+1372;Thaman S
+1373;Stromae
+1374;The Script
+1375;Ryan Lewis
+1376;Carly Rae Jepsen
+1377;Tazzy
+1378;Mustard
+1379;Amit Trivedi
+1380;Elevation Worship
+1381;Kontra K
+1382;Lin-Manuel Miranda
+1383;Bo Burnham
+1384;R��F��S DU S
+1385;Alan Gomez
+1386;Kizzy
+1387;IU
+1388;White Noise for Babies
+1389;Empire of the Sun
+1390;Hollywood Undead
+1391;Boyce Avenue
+1392;Maldy
+1393;Siddhartha
+1394;Colby O'Donis
+1395;Last Child
+1396;Kimbra
+1397;Gaab
+1398;K.Flay
+1399;City Girls
+1400;James Blake
+1401;Set It Off
+1402;accelerate
+1403;Brantley Gilbert
+1404;Enigma Norte��
+1405;Afgan
+1406;Jaani
+1407;Imagine Dragons
+1408;Bruno Mars
+1409;Steve Lacy
+1410;Playboi Carti
+1411;Justin Bieber
+1412;Carin Leon
+1413;Twenty One Pilots
+1414;Alok
+1415;Chencho Corleone
+1416;Quavo
+1417;Ty Dolla $ign
+1418;Burna Boy
+1419;Ellie Goulding
+1420;King
+1421;H.E.R.
+1422;Swedish House Mafia
+1423;Filipe Ret
+1424;Die drei !!!
+1425;Chief Keef
+1426;Luan Santana
+1427;Jeremih
+1428;MARINA
+1429;La Santa Grifa
+1430;Kevin Gates
+1431;Cody Johnson
+1432;SDM
+1433;back number
+1434;Mumford & Sons
+1435;Timmy Trumpet
+1436;Yo Yo Honey Singh
+1437;Neeti Mohan
+1438;Mr.Kitty
+1439;Glee Cast
+1440;Bradley Cooper
+1441;Paloma Faith
+1442;Popcaan
+1443;Indila
+1444;Mike Posner
+1445;Clayton & Rom��ri
+1446;BK
+1447;Jory Boy
+1448;Selena Gomez & The Scene
+1449;Two Door Cinema Club
+1450;Phantogram
+1451;Kid Ink
+1452;Nakash Aziz
+1453;Haftbefehl
+1454;Murda
+1455;fun.
+1456;Mikky Ekko
+1457;Maher Zain
+1458;Mac Miller
+1459;Kendrick Lamar
+1460;BTS
+1461;One Direction
+1462;Charlie Puth
+1463;Anitta
+1464;Labrinth
+1465;Offset
+1466;Alfredo Olivas
+1467;Prince Royce
+1468;El Alfa
+1469;Calibre 50
+1470;Ghost
+1471;Pablo Albor��
+1472;Julia Michaels
+1473;Mambo Kingz
+1474;Florida Georgia Line
+1475;MC Hariel
+1476;Cults
+1477;WILLOW
+1478;Kenshi Yonezu
+1479;Stormzy
+1480;Young Dolph
+1481;La Adictiva
+1482;El Fantasma
+1483;Macklemore & Ryan Lewis
+1484;Xand Avi��
+1485;Asees Kaur
+1486;Disclosure
+1487;Vintage Culture
+1488;Lord Huron
+1489;Noah Cyrus
+1490;ScHoolboy Q
+1491;Rita Ora
+1492;James Bay
+1493;Jessie J
+1494;Die Kita-Fr��sch
+1495;Ufo361
+1496;Karsten Gl��c
+1497;Simone Sommerland
+1498;C418
+1499;Foster The People
+1500;Purple Disco Machine
+1501;Carla Morrison
+1502;Christina Perri
+1503;Nanpa B��sic
+1504;Alex G
+1505;Kevin Roldan
+1506;Fran C
+1507;Andy Grammer
+1508;Shouse
+1509;Rvssian
+1510;MAX
+1511;Ana Mena
+1512;Daya
+1513;Jacquees
+1514;Bethel Music
+1515;Luch�
+1516;Grimes
+1517;Super Simple Songs
+1518;C-Kan
+1519;Jaden
+1520;Skylar Grey
+1521;Leo Santana
+1522;Shilpi Raj
+1523;Rudimental
+1524;Millonario
+1525;Shashaa Tirupati
+1526;Jay Park
+1527;Brett Eldredge
+1528;Lana Del Rey
+1529;The Weeknd
+1530;Maluma
+1531;Feid
+1532;Anuel AA
+1533;Robin Schulz
+1534;Meghan Trainor
+1535;A$AP Rocky
+1536;Childish Gambino
+1537;Anderson .Paak
+1538;blackbear
+1539;Justin Quiles
+1540;Sabrina Carpenter
+1541;PARTYNEXTDOOR
+1542;Russ
+1543;DJ Snake
+1544;Migos
+1545;Tyler Childers
+1546;Little Mix
+1547;Israel & Rodolffo
+1548;Sid Sriram
+1549;TV Girl
+1550;Darell
+1551;Takeoff
+1552;Troye Sivan
+1553;Tulus
+1554;AJR
+1555;Bastille
+1556;C. Tangana
+1557;Clean Bandit
+1558;Aleman
+1559;Chance the Rapper
+1560;Natti Natasha
+1561;Topic
+1562;Mabel Matiz
+1563;White Noise Baby Sleep
+1564;Mon Laferte
+1565;GIMS
+1566;Lomepal
+1567;MNEK
+1568;A$AP Ferg
+1569;Flume
+1570;Lukas Graham
+1571;Nekfeu
+1572;Birdy
+1573;Lasso
+1574;Gzuz
+1575;Salmo
+1576;Ernia
+1577;Zendaya
+1578;Khruangbin
+1579;Falling In Reverse
+1580;Aimer
+1581;Leslie Odom Jr.
+1582;FLETCHER
+1583;Tom Rosenthal
+1584;Kina
+1585;Iggy Azalea
+1586;JP Cooper
+1587;Brett Young
+1588;R��o Rom
+1589;Santhosh Narayanan
+1590;The Paper Kites
+1591;WALK THE MOON
+1592;Vince Staples
+1593;Ronnie Flex
+1594;Of Monsters and Men
+1595;Boef
+1596;Stephanie Beatriz
+1597;Ankit Tiwari
+1598;The Neighbourhood
+1599;Duki
+1600;Travis Scott
+1601;KAROL G
+1602;Metro Boomin
+1603;Mac DeMarco
+1604;Cigarettes After Sex
+1605;Rema
+1606;The 1975
+1607;Halsey
+1608;Bebe Rexha
+1609;James Arthur
+1610;Lil Durk
+1611;Henrique & Juliano
+1612;Tom Odell
+1613;Mitski
+1614;The Chainsmokers
+1615;Kygo
+1616;5 Seconds of Summer
+1617;Matheus & Kauan
+1618;Glass Animals
+1619;The Lumineers
+1620;Martin Garrix
+1621;Melanie Martinez
+1622;Becky G
+1623;Lorde
+1624;Becky Hill
+1625;Wesley Safad��
+1626;Kumaar
+1627;Tove Lo
+1628;Zara Larsson
+1629;Piso 21
+1630;AURORA
+1631;Joey Bada$$
+1632;Ray Dalton
+1633;Galantis
+1634;Denzel Curry
+1635;Eyedress
+1636;�ngela Aguilar
+1637;Z�� Neto & Cristian
+1638;Thomas Rhett
+1639;G Herbo
+1640;Nardo Wick
+1641;Lenin Ram��re
+1642;Novo Amor
+1643;Maes
+1644;Ezhel
+1645;Dadju
+1646;Jon Pardi
+1647;The Living Tombstone
+1648;CRO
+1649;alt-J
+1650;Kodaline
+1651;ODESZA
+1652;Matisse
+1653;M�
+1654;Earl Sweatshirt
+1655;Pouya
+1656;Mabel
+1657;Miky Woodz
+1658;Lauren Daigle
+1659;BIA
+1660;Rag'n'Bone Man
+1661;Dawid Podsiad��
+1662;Blueface
+1663;John Newman
+1664;Rich The Kid
+1665;Tinashe
+1666;Fiersa Besari
+1667;Ozuna
+1668;Oliver Tree
+1669;Sebastian Yatra
+1670;NF
+1671;Alan Walker
+1672;NLE Choppa
+1673;Bryson Tiller
+1674;Tanishk Bagchi
+1675;Hozier
+1676;Lizzo
+1677;Daniel Caesar
+1678;Jay Wheeler
+1679;Lazza
+1680;Alec Benjamin
+1681;Vance Joy
+1682;Imanbek
+1683;DJ Luian
+1684;Dalex
+1685;George Ezra
+1686;Felix Jaehn
+1687;LUDMILLA
+1688;Niska
+1689;Rae Sremmurd
+1690;ILLENIUM
+1691;Dilsinho
+1692;LUCKI
+1693;X Ambassadors
+1694;Madison Beer
+1695;Dove Cameron
+1696;Sam Feldt
+1697;Darshan Raval
+1698;Milky Chance
+1699;Jess Glynne
+1700;Capo Plaza
+1701;Dan + Shay
+1702;Mc Kevin
+1703;Jonita Gandhi
+1704;Jaymes Young
+1705;The Walters
+1706;Beach Weather
+1707;Latto
+1708;Justine Skye
+1709;Tion Wayne
+1710;Miggy Dela Rosa
+1711;Ovi
+1712;Ferrugem
+1713;Rochak Kohli
+1714;Omar Varela
+1715;Sam Hunt
+1716;EXO
+1717;Nikhita Gandhi
+1718;Masego
+1719;Rainbow Kitten Surprise
+1720;KAYTRANADA
+1721;Charles Ans
+1722;Jairo Vera
+1723;Sof��a Reye
+1724;Fifth Harmony
+1725;The Vamps
+1726;XXXTENTACION
+1727;Doja Cat
+1728;Lil Uzi Vert
+1729;SZA
+1730;$uicideboy$
+1731;Morgan Wallen
+1732;Lil Peep
+1733;Shawn Mendes
+1734;Luke Combs
+1735;Sech
+1736;Brent Faiyaz
+1737;Kodak Black
+1738;Mar��lia Mendon�
+1739;Kali Uchis
+1740;Chase Atlantic
+1741;League of Legends
+1742;Sfera Ebbasta
+1743;Dean Lewis
+1744;Ninho
+1745;Lenny Tav��re
+1746;Maiara & Maraisa
+1747;Lost Frequencies
+1748;Anne-Marie
+1749;Swae Lee
+1750;Santa Fe Klan
+1751;Kehlani
+1752;Mc Don Juan
+1753;Gera MX
+1754;beabadoobee
+1755;Sigala
+1756;Brytiago
+1757;Red Velvet
+1758;Kane Brown
+1759;LANY
+1760;Ella Henderson
+1761;Diego & Victor Hugo
+1762;James Hype
+1763;Jax Jones
+1764;Seafret
+1765;Z�� Felip
+1766;Bedoes 2115
+1767;Ghostemane
+1768;Young Nudy
+1769;B Praak
+1770;Neo Beats
+1771;Pinguini Tattici Nucleari
+1772;Saweetie
+1773;Gryffin
+1774;Hailee Steinfeld
+1775;Blxst
+1776;Mc Davi
+1777;Lainey Wilson
+1778;Men I Trust
+1779;Hungria Hip Hop
+1780;Fetty Wap
+1781;Naps
+1782;Kelsea Ballerini
+1783;Night Lovell
+1784;The Score
+1785;Ofenbach
+1786;Smino
+1787;Joyner Lucas
+1788;Chelsea Cutler
+1789;Moira Dela Torre
+1790;Los Gemelos De Sinaloa
+1791;Ang��l
+1792;Loud Luxury
+1793;I Prevail
+1794;DIVINE
+1795;Ricky Montgomery
+1796;Matheus Fernandes
+1797;Vishal Mishra
+1798;Post Malone
+1799;Dua Lipa
+1800;Bad Bunny
+1801;Rauw Alejandro
+1802;Myke Towers
+1803;Marshmello
+1804;BLACKPINK
+1805;Morat
+1806;Eladio Carrion
+1807;A Boogie Wit da Hoodie
+1808;Rels B
+1809;Camila Cabello
+1810;RAYE
+1811;Cardi B
+1812;Jack Harlow
+1813;Freddie Dredd
+1814;Lil Yachty
+1815;Phoebe Bridgers
+1816;SEVENTEEN
+1817;Shiloh Dynasty
+1818;JID
+1819;Danny Ocean
+1820;Orochi
+1821;Jubin Nautiyal
+1822;Damso
+1823;Lauv
+1824;Bryant Myers
+1825;Moneybagg Yo
+1826;6LACK
+1827;Joel Corry
+1828;Dermot Kennedy
+1829;Alessia Cara
+1830;Ruth B.
+1831;PNL
+1832;NAV
+1833;Gabito Ballesteros
+1834;Murilo Huff
+1835;Cavetown
+1836;Jessie Reyez
+1837;Vacations
+1838;OFFICIAL HIGE DANDISM
+1839;Montell Fish
+1840;Jonas Blue
+1841;Gustavo Mioto
+1842;White 2115
+1843;Mc IG
+1844;Jeremy Zucker
+1845;Jimin
+1846;Nio Garcia
+1847;Original Broadway Cast of Hamilton
+1848;SYML
+1849;Leon Bridges
+1850;Tom Grennan
+1851;Louis Tomlinson
+1852;Mrs. GREEN APPLE
+1853;Rashmi Virag
+1854;Lil Tracy
+1855;Cheat Codes
+1856;Toby Fox
+1857;PnB Rock
+1858;SAINt JHN
+1859;Sasha Alex Sloan
+1860;Ashe
+1861;Capital Bra
+1862;Billie Eilish
+1863;Joji
+1864;ROSAL��
+1865;Central Cee
+1866;Manuel Turizo
+1867;Olivia Rodrigo
+1868;Trippie Redd
+1869;YoungBoy Never Broke Again
+1870;DaBaby
+1871;Christian Nodal
+1872;Conan Gray
+1873;070 Shake
+1874;TINI
+1875;MC Cabelinho
+1876;Grupo Firme
+1877;Sidhu Moose Wala
+1878;Hugo & Guilherme
+1879;Rex Orange County
+1880;Elley Duh�
+1881;Calum Scott
+1882;Shiva
+1883;ZAYN
+1884;Lyanno
+1885;La Joaqui
+1886;Niall Horan
+1887;Dave
+1888;Clairo
+1889;Brray
+1890;Ski Mask The Slump God
+1891;Noriel
+1892;Grupo Arriesgado
+1893;Matu�
+1894;NCT DREAM
+1895;Karan Aujla
+1896;NEFFEX
+1897;bbno$
+1898;Dominic Fike
+1899;Aya Nakamura
+1900;Pineapple StormTv
+1901;CKay
+1902;Mau y Ricky
+1903;Young Cister
+1904;Yung Gravy
+1905;Bazzi
+1906;Soolking
+1907;Pablo Chill-E
+1908;NCT 127
+1909;Two Feet
+1910;Jorja Smith
+1911;Bad Omens
+1912;Beret
+1913;James Carter
+1914;JIN
+1915;Ben&Ben
+1916;Marca MP
+1917;Bizarrap
+1918;Harry Styles
+1919;Lil Baby
+1920;M��neski
+1921;Stray Kids
+1922;Mora
+1923;Fuerza Regida
+1924;Lewis Capaldi
+1925;Ava Max
+1926;Yeat
+1927;Kim Petras
+1928;Jhayco
+1929;Roddy Ricch
+1930;Tate McRae
+1931;Paulo Londra
+1932;Rod Wave
+1933;Xam�
+1934;Ovy On The Drums
+1935;L7NNON
+1936;Aitana
+1937;Sleepy Hallow
+1938;WIU
+1939;Em Beihold
+1940;YSY A
+1941;King Von
+1942;Lu��sa Sonz
+1943;Noah Kahan
+1944;keshi
+1945;HARDY
+1946;KHEA
+1947;Key Glock
+1948;D-Block Europe
+1949;Trueno
+1950;Ryan Castro
+1951;Omar Apollo
+1952;NIKI
+1953;WOS
+1954;YNW Melly
+1955;LIT killah
+1956;Aitch
+1957;$NOT
+1958;Cazzu
+1959;Tayc
+1960;Jordan Davis
+1961;6ix9ine
+1962;dazy
+1963;42 Dugg
+1964;Tony Aguirre
+1965;Juice WRLD
+1966;Polo G
+1967;Luis R Conriquez
+1968;The Kid LAROI
+1969;Lil Nas X
+1970;Maria Becerra
+1971;MC Ryan SP
+1972;Natanael Cano
+1973;JVKE
+1974;Lil Tjay
+1975;Summer Walker
+1976;Baby Keem
+1977;Giveon
+1978;Tiago PZK
+1979;Geolier
+1980;Lil Tecca
+1981;Polim�� Westcoas
+1982;Kevin Kaarl
+1983;Lofi Fruits Music
+1984;Chill Fruits Music
+1985;girl in red
+1986;(G)I-DLE
+1987;Tems
+1988;Connor Price
+1989;Ke Personajes
+1990;Edgardo Nu��e
+1991;iann dior
+1992;Grupo Menos �� Mai
+1993;Dallass
+1994;Apache 207
+1995;24kGoldn
+1996;Kenia OS
+1997;Mc Poze do Rodo
+1998;ATEEZ
+1999;Coi Leray
+2000;Callejero Fino
+2001;Ajaxx
+2002;j-hope
+2003;Los Dos Carnales
+2004;Teto
+2005;Marcianeke
+2006;Zack Tabudlo
+2007;Junior H
+2008;Zach Bryan
+2009;Pop Smoke
+2010;Peso Pluma
+2011;Cris Mj
+2012;Nicki Nicole
+2013;TOMORROW X TOGETHER
+2014;Guilherme & Benuto
+2015;Fred again..
+2016;AP Dhillon
+2017;Eslabon Armado
+2018;�neheart
+2019;Kotim
+2020;YOASOBI
+2021;Blessd
+2022;Ado
+2023;Tiakola
+2024;ITZY
+2025;sped up nightcore
+2026;Morad
+2027;UZI
+2028;Gazo
+2029;Vaundy
+2030;Felipe Amorim
+2031;NATTAN
+2032;Gurinder Gill
+2033;Solfeggio Healing Frequencies MT
+2034;Kato
+2035;Lvbel C5
+2036;CoComelon
+2037;Quevedo
+2038;Stephen Sanchez
+2039;Mc Paiva ZS
+2040;MEDUZA
+2041;Standly
+2042;Pailita
+2043;Mainstreet
+2044;Miracle Tones
+2045;Ivan Cornejo
+2046;Fujii Kaze
+2047;Hotel Ugly
+2048;ENHYPEN
+2049;Oscar Maydon
+2050;DVRST
+2051;Nicky Youre
+2052;Tz da Coronel
+2053;d4vd
+2054;Ana Castela
+2055;Kordhell
+2056;Mari Fernandez
+2057;Rosa Linn
+2058;PinkPantheress
+2059;BoyWithUke
+2060;FIFA Sound
+2061;Eden Mu��o
+2062;INTERWORLD
+2063;Silk Sonic
+2064;Rain Fruits Sounds
+2065;Jo��o Gome
+2066;Oruam
+2067;Shubh
+2068;Bailey Zimmerman
+2069;IVE
+2070;Arcane
+2071;Sleepy Penguin
+2072;Stars Music Chile
+2073;AYLIVA
+2074;NewJeans
+2075;Grupo Frontera
+2076;Jung Kook
+2077;LE SSERAFIM
+2078;ThxSoMch
+2079;SICK LEGEND
