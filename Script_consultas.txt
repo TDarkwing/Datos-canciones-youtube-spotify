@@ -1,0 +1,44 @@
+1. Comparar vistas y stream de 15 artistas
+2. Comparar vistas y likes en youtube de 15 artistas
+3. Comparar vistas y likes de canciones en album y singles de 15 canciones
+4. Comparar vistas y stream de canciones en album y singles de 15 canciones
+
+1. Gorillaz
+2. Snow Patrol
+3. 50 Cent
+4. Metallica
+5. Coldplay
+6. Grupo Laberinto
+7. Ennio Morricone
+8. Seu Jorge
+9. Leonard Cohen
+10. Good Charlotte
+11. Nirvana
+12. Maroon 5
+13. Romeo Santos
+14. Yandel
+15. Foo Fighters
+
+--Comparar vistas y stream de los 15 artistas
+select h.nombre as artista, sum (g.stream) as Stream_Spotify, sum(g.views) as Vistas_Youtube
+from (((Datos_Youtube as a inner join Cancion as b on a.Cancion_id = b.ID) as c inner join Datos_Spotify as d on c.ID = d.Cancion_id) as e inner join Publicar_Cancion as f on e.ID = f.Cancion_id) as g inner join Artista as h on g.Artista_id = h.ID
+where h.nombre = 'Gorillaz' or h.nombre = 'Snow Patrol' or h.nombre = '50 Cent' or h.nombre = 'Metallica' or h.nombre = 'Coldplay' or h.nombre = 'Grupo Laberinto' or h.nombre = 'Ennio Morricone' or h.nombre = 'Seu Jorge' or h.nombre = 'Leonard Cohen' or h.nombre = 'Good Charlotte' or h.nombre = 'Nirvana' or h.nombre = 'Maroon 5' or h.nombre = 'Romeo Santos' or h.nombre = 'Yandel' or h.nombre = 'Foo Fighters'
+group by h.nombre;
+
+--Comparar vistas y likes de 15 artistas
+select f.nombre as artista, sum(e.views) as Vistas, sum(e.likes) as Likes
+from ((Datos_Youtube as a inner join Cancion as b on a.Cancion_id = b.ID) as c inner join Publicar_Cancion as d on c.ID = d.Cancion_id) as e inner join Artista as f on e.Artista_id = f.ID
+where f.nombre = 'Gorillaz' or f.nombre = 'Snow Patrol' or f.nombre = '50 Cent' or f.nombre = 'Metallica' or f.nombre = 'Coldplay' or f.nombre = 'Grupo Laberinto' or f.nombre = 'Ennio Morricone' or f.nombre = 'Seu Jorge' or f.nombre = 'Leonard Cohen' or h.nombre = 'Good Charlotte' or f.nombre = 'Nirvana' or f.nombre = 'Maroon 5' or f.nombre = 'Romeo Santos' or f.nombre = 'Yandel' or f.nombre = 'Foo Fighters'
+group by f.nombre
+
+--Comparar vistas y likes de 15 canciones en album y en single
+select e.nombre, f.album, f.tipo_album, sum(e.views) as vistas, sum(e.likes) as likes
+from ((Datos_Youtube as a inner join Cancion as b on a.Cancion_id = b.ID) as c inner join Estar_en_album as d on c.ID = d.Cancion_id) as e inner join album as f on e.Album_id = f.ID
+where e.ID = 0 or e.ID = 1 or e.ID = 2 or e.ID = 3 or e.ID = 4 or e.ID = 5 or e.ID = 6 or e.ID = 7 or e.ID = 8 or e.ID = 9 or e.ID = 10 or e.ID = 11 or e.ID = 12 or e.ID = 13 or e.ID = 14
+group by cube (e.nombre, f.album, f.tipo_album;
+
+--Comparar vistas y stream de 15 canciones en album y en single
+select h.Album, g.nombre, h.Tipo_album, sum(g.views) as vistas, sum(g.stream) as Stream
+from (((Datos_Youtube as a inner join Cancion as b on a.Cancion_id = b.ID) as c inner join Datos_Spotify as d on c.ID = d.Cancion_id) as e inner join Estar_en_Album as f on e.ID = f.Cancion_id) as g inner join Album as h on g.Album_id = h.Album
+where h.ID = 0 or h.ID = 1 or h.ID = 2 or h.ID = 3 or h.ID = 4 or h.ID = 5 or h.ID = 6 or h.ID = 7 or h.ID = 8 or h.ID = 9 or h.ID = 10 or h.ID = 11 or h.ID = 12 or h.ID = 13 or h.ID = 14
+group by (h.Album, g.nombre, h.Tipo_album)
